@@ -119,11 +119,7 @@ Es importante tener en cuenta que var y let permiten cambiar el valor de la vari
 ## Operadores Aritmeticos
 
 
-En JavaScript, los operadores aritméticos y de comparación son herramientas fundamentales para realizar operaciones matemáticas y comparar valores en programas. A continuación, te proporcionaré una explicación breve sobre cada uno de ellos y algunos ejemplos de código para que puedas entender mejor su uso:
-
-## Operadores Aritméticos
-
-Los operadores aritméticos son utilizados para realizar operaciones matemáticas básicas. En JavaScript, se pueden utilizar los siguientes operadores aritméticos:
+En JavaScript, los operadores aritméticos son esenciales para llevar a cabo cálculos matemáticos y realizar operaciones básicas en programas. Estos operadores son símbolos especiales que permiten que los valores numéricos sean manipulados en distintas formas. Los siguientes son algunos de los operadores aritméticos más comunes en JavaScript:
 
 ## Suma (+)
 El operador de suma (+) se utiliza para sumar dos valores.
